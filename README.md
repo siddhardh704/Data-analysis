@@ -1,5 +1,5 @@
 # Data-analysis
- Loaded CSV using Pandas
+ Loaded Excel using Pandas
 - Cleaned missing values
 - Performed groupby analysis
 - Created bar, line, and box plots
